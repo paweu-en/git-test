@@ -1,3 +1,4 @@
 Cześć Paweł
 Hello Paul?
+Teraz pull
 test rebase
